@@ -32,3 +32,7 @@ After setting up the environment, Run the main.py to kickstart the project
 ```
 $> python3 main.py
 ```
+
+## Note:
+
+This is a tutorial code base !
